@@ -28,13 +28,16 @@ Business Analysts and Product Owners spend a significant amount of time manually
 
 | Step | Screenshot |
 |------|------------|
-| 1. Input selection (Mockup / Document) | `[ADD SCREENSHOT HERE]` |
-| 2. AI Analysis in progress | `[ADD SCREENSHOT HERE]` |
-| 3. Choose AC format | `[ADD SCREENSHOT HERE]` |
-| 4. Review generated stories | `[ADD SCREENSHOT HERE]` |
-| 5. Jira export preview | `[ADD SCREENSHOT HERE]` |
+| 1. Input selection (Mockup / Document) | <img width="1507" height="1344" alt="01-configure-mockup-input" src="https://github.com/user-attachments/assets/b5d7ccd2-5685-4e09-b31b-18b3929830b1" />
+ |
+| 2. Selecting document/screenshot | <img width="1124" height="654" alt="02-configure-document-input" src="https://github.com/user-attachments/assets/df043f58-ca96-4fd9-b910-96c91f38ec9e" />
 
-*(To capture: run the app locally, walk through one full flow, take a screenshot at each step with `Cmd+Shift+4` on Mac, save them into a `/screenshots` folder in this repo, and replace the placeholders above with `![alt text](./screenshots/filename.png)`.)*
+| 3. Choose AC format | <img width="1047" height="362" alt="03-configure-ac-format-options" src="https://github.com/user-attachments/assets/6f2f10fd-d023-4c7f-a8d5-1a4e4cb33f1a" />
+ |
+| 4. Review generated stories 
+| 5. Jira export preview 
+| 6. Push if you want them in Jira
+
 
 ## Getting Started
 
